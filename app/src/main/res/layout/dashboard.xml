@@ -68,7 +68,5 @@
             android:text="@string/configuracoes"
             android:textColor="#FFFFFF"
             android:textStyle="bold"  />
-
-
     </RelativeLayout>
 </LinearLayout>

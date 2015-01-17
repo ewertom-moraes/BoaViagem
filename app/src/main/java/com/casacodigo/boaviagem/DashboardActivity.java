@@ -18,7 +18,7 @@ public class DashboardActivity extends ActionBarActivity {
 //        TextView textView = (TextView) view;
 //        String opcao = "Opção: "+textView.getText().toString();
 //        Toast.makeText(this,opcao,Toast.LENGTH_LONG).show();
-
+        // comentario teste
         int id = view.getId();
         switch (id){
             case R.id.nova_viagem :
