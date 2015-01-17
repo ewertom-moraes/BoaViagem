@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- aplicacao -->
+    <string name="app_name">BoaViagem</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- login -->
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="erro_autenticao">Usuario ou senha invalidos</string>
+
+    <!-- painel (dashboard) -->
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <!-- transacoes -->
+    <string name="novo_gasto">Novo Gasto</string>
+    <string name="nova_viagem">Nova Viagem</string>
+    <string name="configuracoes">Configuracoes</string>
+    <string name="minhas_viagens">Minhas Viagens</string>
+
+    <!-- nova viagem -->
+    <string name="destino">Destino</string>
+    <string name="lazer">Lazer</string>
+    <string name="negocios">Negocios</string>
+    <string name="tipo_da_viagem">Tipo de Viagem</string>
+    <string name="data_da_saida">Data Saída</string>
+    <string name="data_da_chegada">Data Chegada</string>
+    <string name="selecione">Selecione</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="quantidade_de_pessoas">Numero de Pessoas</string>
+    <string name="salvar">Salvar</string>
+
+    <!-- gasto -->
+    <string name="title_activity_gasto">GastoActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="descricao">Descrição</string>
+    <string name="local">Local</string>
+    <string name="gastei">Gastei</string>
+    <string name="categoria">Categoria</string>
+
+    <string-array name="categoria_gasto">
+        <item>Alimentação</item>
+        <item>Combustivel</item>
+        <item>Transporte</item>
+        <item>Hospedagem</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string name="title_activity_viagem_list">ViagemListActivity</string>
+    <string name="title_activity_gasto_list_acivity">GastoListAcivity</string>
+
+</resources>
